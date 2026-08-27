@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Términos de uso - Personal Control Dinero</title>
+</head>
+<body>
+    <h1>Términos de uso</h1>
+
+    <p><strong>Última actualización:</strong> 27 de agosto de 2026</p>
+
+    <h2>1. Finalidad de la aplicación</h2>
+
+    <p>
+        Personal Control Dinero es una aplicación de uso personal
+        destinada a consultar y visualizar información financiera
+        procedente de cuentas bancarias conectadas mediante Open Banking.
+    </p>
+
+    <h2>2. Uso personal</h2>
+
+    <p>
+        La aplicación está destinada exclusivamente a uso personal
+        y no constituye un servicio financiero, de inversión,
+        asesoramiento financiero ni servicio bancario.
+    </p>
+
+    <h2>3. Conexión con entidades bancarias</h2>
+
+    <p>
+        El usuario autoriza expresamente el acceso a sus cuentas bancarias
+        mediante los mecanismos de consentimiento proporcionados por las
+        entidades bancarias y los proveedores de Open Banking utilizados.
+    </p>
+
+    <h2>4. Exactitud de la información</h2>
+
+    <p>
+        La información mostrada por la aplicación depende de los datos
+        proporcionados por las entidades bancarias y los proveedores
+        de Open Banking. La aplicación no garantiza que dichos datos
+        estén siempre disponibles, completos o actualizados.
+    </p>
+
+    <h2>5. Seguridad</h2>
+
+    <p>
+        El usuario es responsable de mantener bajo su control las
+        credenciales, claves y dispositivos utilizados para acceder
+        a la aplicación.
+    </p>
+
+    <h2>6. Disponibilidad</h2>
+
+    <p>
+        La aplicación se proporciona para uso personal y puede sufrir
+        interrupciones, errores o cambios sin previo aviso.
+    </p>
+
+    <h2>7. Aceptación</h2>
+
+    <p>
+        El uso de la aplicación implica la aceptación de estos términos.
+    </p>
+</body>
+</html>
